@@ -28,11 +28,11 @@ This problem set revolves around logistic regression and predictive modeling. It
 
 ## PS7
 This PS has the following goals:
-• use sklearn library for predictive modeling
-• learn to predict the outcomes and probabilities
-• understand confusion matrix and related concepts
-• use different methods for predictive modeling
-• do 3-fold testing-validation-training workflow
+1. use sklearn library for predictive modeling
+2. learn to predict the outcomes and probabilities
+3. understand confusion matrix and related concepts
+4. use different methods for predictive modeling
+5. do 3-fold testing-validation-training workflow
 In this question, we will construct a logistic regression model to predict the probability of a person having a heart attack. The dataset heart.csv comes from Kaggle:www.kaggle.com/rashikrahmanpritom/ heart-attack-analysis-prediction-dataset, which contains health information of each person (predictors) and whether or not the person had a heart attack before (outcome variable). 
 
 ## PS8
